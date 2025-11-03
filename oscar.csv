@@ -1,0 +1,10 @@
+genre,total_movies,oscar_wins,oscar_nominations,other_wins,no_awards,oscar_win_rate_percent,oscar_nomination_rate_percent
+Drama,849,103,141,443,162,12.13,16.61
+Biography,349,73,77,152,47,20.92,22.06
+Action,1232,56,142,641,393,4.55,11.53
+Comedy,1226,48,93,674,411,3.92,7.59
+Adventure,322,35,57,153,77,10.87,17.70
+Animation,298,29,68,142,59,9.73,22.82
+Crime,313,27,48,160,78,8.63,15.34
+Documentary,93,7,14,45,27,7.53,15.05
+Horror,250,4,3,146,97,1.60,1.20

@@ -1,0 +1,10 @@
+genre,avg_profit_per_genre,genre_rank,performance_category
+Animation,230425034.40,1,"Good Performing"
+Action,127583001.98,2,"Avg Performing "
+Adventure,111631034.60,3,"Avg Performing "
+Horror,66242773.35,4,"Avg Performing "
+Comedy,41000428.38,5,"Avg Performing "
+Biography,38138498.06,6,"Avg Performing "
+Drama,37228337.53,7,"Avg Performing "
+Crime,33093701.03,8,"Avg Performing "
+Documentary,18108800.13,9,"Lowest Performing"
